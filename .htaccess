@@ -1,0 +1,16 @@
+Options +MultiViews
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+ErrorDocument 404 http://localhost/iasds.org/404-error
+RewriteCond %{REQUEST_URI} ^/404/$
+RewriteRule ^(.*)$ /pages/errors/404.php [L]
+
+Options -Indexes
+
+
+ErrorDocument 403 http://localhost/iasds.org/403-error
+RewriteCond %{REQUEST_URI} ^/403/$
+RewriteRule ^(.*)$ /pages/errors/403.php [L]

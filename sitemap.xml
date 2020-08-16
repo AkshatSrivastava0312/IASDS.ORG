@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://iasds.org/</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://iasds.org/index.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/about.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/expertteam.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/governingbody.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/incumbency.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/projects.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/trainingworkshop.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/consultancy.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/gallery.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/contact.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://iasds.org/moa.php</loc>
+  <lastmod>2020-01-27T06:28:39+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
